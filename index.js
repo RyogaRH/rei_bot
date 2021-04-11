@@ -1162,4 +1162,4 @@ client.on("message", async message => {
 })
 
 
-client.login("Nzg3MTE0MTUzMzc0MTIyMDM2.X9QPLg.8ZPognqMjzbyseUF9UHg6NHbmM8"); 
+client.login(""); 
